@@ -27,7 +27,7 @@ const federations = [
   },
   {
     name: "Natación artística",
-    fullName: "Asociación Deportiva Nacional de Natación Artística A.C.",
+    fullName: "Asociación Deportiva Nacional de Natación Artística",
     href: "https://natacionartistica.aquaticsmex.com/",
     logo: natacionArtistica,
   },
